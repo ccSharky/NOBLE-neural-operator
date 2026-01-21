@@ -1,0 +1,4 @@
+viz_out/
+extracted/
+__pycache__/
+.DS_Store
